@@ -1,0 +1,24 @@
+{
+    "name": "nguyennamthanh113/danhbaiuytin",
+    "type": "library",
+    "description": "Logging for PHP 7.1",
+    "keywords": ["log","logging"],
+    "homepage": "https://gitlab.com/nguyennamthanh113/danhbaiuytin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Nam Thanh",
+            "email": "nguyennamthanh113@gmail.com",
+            "homepage": "https://danhbaiuytin",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "danhbaiuytin": "src"
+        }
+    }
+}
